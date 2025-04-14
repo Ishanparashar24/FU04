@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FU04</string>
+    <string name="my_native_android_app">my native android app</string>
+    <string name="launch_unity_ar">launch unity ar</string>
+</resources>
