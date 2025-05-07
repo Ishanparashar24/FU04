@@ -116,8 +116,6 @@ FO04 is an Android augmented reality application built using Unity, Vuforia SDK,
 | :------------ | :------------- | :------------------------------ |
 | [Ishan Parashar ] | Lead Developer | [ishanparashar24@gmail.com] <br> [Your Social Links] |
 
-*(Please replace the placeholder information in the table above with your actual name, email address, and social links.)*
-
 ## Contact
 
 If you have any questions, feedback, or encounter any issues with the FO04 app or the project, please feel free to reach out via email or my social links as listed in the Team Member section.
