@@ -3,6 +3,7 @@
 <p align="center">
   <a>
     <img src="https://repobeats.axiom.co/api/embed/d2380875ce022dbc377f7d92dc7151d890ccfa8b.svg"/><br>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIshanparashar24%2FFU04&label=Views&countColor=%2337d67a&style=flat&labelStyle=lower" />
     <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)"/>
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white" />
