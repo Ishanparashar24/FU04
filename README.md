@@ -13,7 +13,7 @@
 ## Built With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,unity,androidstudio,kotlin,gradle,git,github&perline=4" />
+    <img src="https://skillicons.dev/icons?i=blender,unity,cs,cpp,androidstudio,kotlin,gradle,git,github&perline=3" />
   </a>
 </p>
 
