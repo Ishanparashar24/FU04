@@ -1,9 +1,8 @@
 # FU04
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FO04)
-
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FO04" alt="visitors"><br>
     <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)"/>
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white" />
