@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FU04" alt="visitors"><br>
+    <img src="https://repobeats.axiom.co/api/embed/d2380875ce022dbc377f7d92dc7151d890ccfa8b.svg"/><br>
     <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)"/>
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white" />
