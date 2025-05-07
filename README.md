@@ -66,7 +66,7 @@ The typical workflow for a user interacting with the FO04 app is as follows:
 This repository may provide the ready-to-install Android Application Package (APK) file for users in the [Releases tab](YOUR_RELEASE_PAGE_LINK_HERE - *You will need to add the actual link*). Since you are downloading the app directly from GitHub and not the Google Play Store, you will need to follow these steps to install it on your Android device:
 
 1.  **Download the APK:**
-    * Go to the [Releases tab](YOUR_RELEASE_PAGE_LINK_HERE - *You will need to add the actual link*) of this GitHub repository.
+    * Go to the [Releases tab](https://github.com/Ishanparashar24/FU04/releases/tag/base) of this GitHub repository.
     * Download the latest APK file available for the app.
 
 2.  **Enable Installation from Unknown Sources:**
