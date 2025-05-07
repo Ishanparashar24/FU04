@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FO04" alt="visitors"><br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FU04" alt="visitors"><br>
     <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)"/>
     <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white" />
@@ -88,8 +88,10 @@ This repository may provide the ready-to-install Android Application Package (AP
 
 This application uses a specific image as the target for deploying the augmented reality spaceship model. When you run the app and the camera view is active, point your device's camera at the image below:
 
-![Image Target](YOUR_IMAGE_TARGET_LINK_HERE)
-
+Image Target :
+<p align="center">
+  <img src="https://github.com/Ishanparashar24/FU04/blob/main/app/src/main/res/drawable/earth_image.png" alt="image Target" width="500">
+</p>
 ## Planned Visuals
 
 We plan to add screenshots of the application and also embed a demo video in this README soon to showcase the augmented reality experience. Please check back later to see the app in action!
