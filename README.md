@@ -1,5 +1,7 @@
 # FU04
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ishanparashar24.FO04)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/Status-Under%20Development-orange" />
